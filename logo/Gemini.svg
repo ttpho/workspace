@@ -4,9 +4,9 @@
 </g>
 <defs>
 <radialGradient id="paint0_radial_2002_756" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(12.704 52.024) rotate(18.6832) scale(136.24 1091.37)">
-<stop offset="0.067" stop-color="#9168C0"/>
-<stop offset="0.343" stop-color="#5684D1"/>
-<stop offset="0.672" stop-color="#1BA1E3"/>
+<stop offset="0.067" stop-color="#191717"/>
+<stop offset="0.343" stop-color="#191717"/>
+<stop offset="0.672" stop-color="#191717"/>
 </radialGradient>
 <clipPath id="clip0_2002_756">
 <rect width="128" height="128" fill="white"/>
