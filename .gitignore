@@ -122,3 +122,4 @@ app.*.symbols
 .DS_Store
 assets/.DS_Store
 assets/assets/.DS_Store
+.DS_Store
