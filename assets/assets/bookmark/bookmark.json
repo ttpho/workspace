@@ -1,0 +1,67 @@
+[
+    {
+        "emoji": "🍇",
+        "label": "DartJ",
+        "link": "https://dartj.web.app/#/mobile"
+    },
+    {
+        "emoji": "🍈",
+        "label": "Localization Tools",
+        "link": "https://localizationtools.web.app/"
+    },
+    {
+        "emoji": "🍉",
+        "label": "Lottie Preview",
+        "link": "https://ttpho.github.io/lottie/"
+    },
+    {
+        "emoji": "🍊",
+        "label": "Emoji Icon Generator",
+        "link": "https://ttpho.github.io/emoji_icon_generator/"
+    },
+    {
+        "emoji": "🍋",
+        "label": "Strings",
+        "link": "https://gnirts-2023.web.app/#/"
+    },
+    {
+        "emoji": "🍌",
+        "label": "Blog",
+        "link": "https://ttpho.github.io/"
+    },
+    {
+        "emoji": "🍍",
+        "label": "Qiita",
+        "link": "https://qiita.com/"
+    },
+    {
+        "emoji": "🥭",
+        "label": "csdn",
+        "link": "https://www.csdn.net/"
+    },
+    {
+        "emoji": "🍎",
+        "label": "Animated Emoji",
+        "link": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    {
+        "emoji": "🍏",
+        "label": "Icons",
+        "link": "https://fonts.google.com/icons"
+    },
+    {
+        "emoji": "🍐",
+        "label": "Jetpack Compose",
+        "link": "https://foso.github.io/Jetpack-Compose-Playground/"
+    },
+    {
+        "emoji": "🍑",
+        "label": "DartPad",
+        "link": "https://dartpad.dev/"
+    },
+    {
+        "emoji": "🍒",
+        "label": "JSON",
+        "link": "https://jsoneditoronline.org/"
+    }
+]
