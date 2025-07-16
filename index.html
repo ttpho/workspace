@@ -33,10 +33,31 @@
   <title>Workspace</title>
   <link rel="manifest" href="manifest.json">
 
+  <!-- Loader -->
+  <style type="text/css">
+    .loading {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
+  </style>
+
+
 </head>
 
 <body>
-  <script src="flutter_bootstrap.js?version=947" async></script>
+  <script src="flutter_bootstrap.js?version=948" async></script>
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@1.5.7/dist/lottie-player.js"></script>
+  <div class="loading">
+    <lottie-player src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f41c/lottie.json" background="transparent"
+      speed="1" style="width: 200px; height: 200px;" loop autoplay></lottie-player>
+  </div>
 </body>
 
 </html>
